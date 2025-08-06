@@ -31,11 +31,6 @@ API RESTful desenvolvida em Java 17 com Spring Boot 3 para gerenciamento de lan�
 ### Exemplo de corpo para despesa:
 `{"descricao": "Aluguel", "valor": 1500.00, "tipo": "DESPESA", "data": "2025-08-10"}`
 
-## 📄 Documentação (Swagger)
-
-Após iniciar a aplicação, a documentação interativa da API estará disponível em:
-[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-
 ## ⚙️ Como Executar Localmente
 
 1.  Clone o repositório.
