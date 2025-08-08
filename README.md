@@ -1,6 +1,6 @@
 # API de Controle Financeiro Pessoal
 
-API RESTful desenvolvida em Java 17 com Spring Boot 3 para gerenciamento de lançamentos financeiros (receitas e despesas). Este projeto foi criado como parte de um desafio da [Digital Innovation One](https://dio.me/).
+API RESTful desenvolvida em Java 17 com Spring Boot 3 para gerenciamento de lançamentos financeiros (receitas e despesas). Este projeto foi criado como parte de um desafio do Bootcamp Santander 2024 - Backend com Java.
 
 ## ✨ Funcionalidades
 
